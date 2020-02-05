@@ -1,7 +1,7 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/index/province"
+    "pages/province/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
